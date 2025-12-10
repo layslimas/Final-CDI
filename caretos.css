@@ -1,8 +1,34 @@
 .all{
-    background-color:rgb(255, 238, 203);
+    background-color: rgb(253, 243, 210);
+    width:1450px;
 }
 
-.menu{
-    text-align: right;
+.main-nav ul{
+    list-style:none;
+    gap:15px;
+    display: flex;
+    float:right;
 }
+
+
+.barramenu{
+position: absolute;
+width:1450px;
+height: 71px;
+top: 25px;
+background: #F8DE3C;
+}
+
+.svgsino{
+    width:20px;
+    height:20px;
+}
+
+.svg{
+    margin-left: 150px;
+    position: relative;
+    top: -170px;
+}
+
+
 
